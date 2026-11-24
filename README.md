@@ -52,6 +52,13 @@ Ythdc1_m6A_RNAseq_Portfolio/
 * **NCBI SRA BioProject / Study:** PRJNA300279 / SRP065329 (Run analyzed: `SRR2830633`, `GSM1919520`)
 * **Original Publication:** Roundtree, I. A., Luo, G. Z., Zhang, Z., Wang, X., Zhou, T., Cui, Y., Sha, J., Huang, X., Guerrero, L., Xie, P., He, E., Shen, B., & He, C. (2017). YTHDC1 mediates nuclear export of N6-methyladenosine methylated mRNAs. *eLife*, 6, e31311. https://doi.org
 
+  
+## Key Visualizations
+![Volcano Plot](Ythdc1_KO_Volcano_Plot.png)
+![Pathway Enrichment](Ythdc1_KO_Pathway_Enrichment.png)
+![Top 20 DEGs](Python_Top20_DEGs_BarChart.png)
+![Expression Heatmap](Python_Top24_Expression_Heatmap.png)
+
 ---
 
 ## Tools & Software Dependencies
